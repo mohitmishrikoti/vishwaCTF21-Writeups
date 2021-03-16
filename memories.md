@@ -15,4 +15,4 @@ Hints : How do you respond when someone asks who you are? Think grammatically.
 
 Solves : 5
 
-##solution: 
+##solution: ![](../memoryflag.bmp)
